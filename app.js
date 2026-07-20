@@ -386,3 +386,20 @@ document.getElementById('btn-geo').addEventListener('click', function () {
 carte.on('locationerror', function () {
   alert("Impossible de vous localiser. Vérifiez que la géolocalisation est autorisée dans votre navigateur.");
 });
+
+// plein ecran
+
+document.getElementById('btn-plein-ecran').addEventListener('click', function () {
+  var conteneur = document.getElementById('map');
+  if (!document.fullscreenElement) {
+    conteneur.requestFullscreen();
+  } else {
+    document.exitFullscreen();
+  }
+});
+
+document.addEventListener('fullscreenchange', function () {
+  var bouton = document.getElementById('btn-plein-ecran');
+  bouton.textContent = document.fullscreenElement ? '✕ Quitter le plein écran' : '⛶ Plein écran';
+  setTimeout(function () { carte.invalidateSize(); }, 100);
+});
