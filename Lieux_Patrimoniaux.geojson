@@ -1,0 +1,621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.179526665421058,
+          45.903537192794296
+        ]
+      },
+      "properties": {
+        "id": "P01",
+        "nom": "Cité médiévale de Pérouges",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Pérouges",
+        "adresse": "Pl. du Tilleul,Pl. du Tilleul",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.176962473580624,
+          45.90402247147548
+        ]
+      },
+      "properties": {
+        "id": "P02",
+        "nom": "Office de tourisme de Pérouges - Plaine de l'Ain Tourisme",
+        "accroche": "",
+        "description": "",
+        "type": "Point d'information touristique",
+        "commune": "Pérouges",
+        "adresse": "9 Rte de la Cité",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.179136852877285,
+          45.906191428444984
+        ]
+      },
+      "properties": {
+        "id": "P03",
+        "nom": "Musée du Vieux Pérouges",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Pérouges",
+        "adresse": "1 Rue des Princes",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075820050949296,
+          45.953514415424074
+        ]
+      },
+      "properties": {
+        "id": "P04",
+        "nom": "Le château du Montellier",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Le Montellier",
+        "adresse": "Le château",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.275380373389712,
+          45.81709484678517
+        ]
+      },
+      "properties": {
+        "id": "P05",
+        "nom": "Musée du patrimoine",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Saint-Vulbas",
+        "adresse": "73 Rue Philibert le Beau",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353691344968401,
+          45.96287899069833
+        ]
+      },
+      "properties": {
+        "id": "P06",
+        "nom": "Musée du Cheminot",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "46 bis Rue Aristide Briand",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433949631909489,
+          45.949632422358086
+        ]
+      },
+      "properties": {
+        "id": "P07",
+        "nom": "Musée des Traditions Bugistes",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Saint-Rambert-en-Bugey",
+        "adresse": "7 Av. de l'Europe",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42066948363493,
+          45.9813386205604
+        ]
+      },
+      "properties": {
+        "id": "P08",
+        "nom": "Château de Luisandre",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Saint-Rambert-en-Bugey",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382286096137114,
+          45.95609498756056
+        ]
+      },
+      "properties": {
+        "id": "P09",
+        "nom": "Lac Bleu ",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine naturel",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Rue de Vareilles",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376217382186451,
+          45.94865506611821
+        ]
+      },
+      "properties": {
+        "id": "P010",
+        "nom": "Château de Saint Germain",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.230404914955295,
+          45.92730330894019
+        ]
+      },
+      "properties": {
+        "id": "P011",
+        "nom": "Château de Loyes",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Villieu-Loyes-Mollon",
+        "adresse": "12-22 Rue du Château",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.410407514725356,
+          45.973794937946884
+        ]
+      },
+      "properties": {
+        "id": "P012",
+        "nom": "Château des Allymes",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Brey-de-Vent",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.364380961974151,
+          45.95573062503594
+        ]
+      },
+      "properties": {
+        "id": "P013",
+        "nom": "Parc du château des Echelles",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Ambérieu-en-Bugey",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.277626281380322,
+          45.80549337588771
+        ]
+      },
+      "properties": {
+        "id": "P014",
+        "nom": "Chapelle de Marcilleux",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Saint-Vulbas",
+        "adresse": "Saint-Vulbas",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361527084039952,
+          46.0069876138866
+        ]
+      },
+      "properties": {
+        "id": "P015",
+        "nom": "Abbaye Notre-Dame d'Ambronay",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Ambronay",
+        "adresse": "Ambronay",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.345968240477341,
+          45.90389231704272
+        ]
+      },
+      "properties": {
+        "id": "P016",
+        "nom": "Château de Montferrand",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Lagnieu",
+        "adresse": "Rue du Vieux Château",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19537955149412,
+          45.821515624145775
+        ]
+      },
+      "properties": {
+        "id": "P017",
+        "nom": "Eglise Saint-Maurice-de-Gourdans",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Saint-Maurice-de-Gourdans",
+        "adresse": "1 Rte de Port Galland",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.252814541706741,
+          45.894738845055976
+        ]
+      },
+      "properties": {
+        "id": "P018",
+        "nom": "Parc Château de Chazey-sur-Ain",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Chazey-sur-ain",
+        "adresse": "143 Le Château",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53883354311088,
+          45.83561321708439
+        ]
+      },
+      "properties": {
+        "id": "P019",
+        "nom": "Mini musée de la Fruitière d'Ordonnaz",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Ordonnaz",
+        "adresse": "Ordonnaz",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.248418,
+          45.845647
+        ]
+      },
+      "properties": {
+        "id": "P20",
+        "nom": "Prieuré de Blyes",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Blyes",
+        "adresse": "Route de Loyettes face à la mairie",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426864093552597,
+          45.81711555092679
+        ]
+      },
+      "properties": {
+        "id": "P021",
+        "nom": "Base de Loisirs du Point-Vert",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine naturel",
+        "commune": "Serrières-de-Briord",
+        "adresse": "chemin du point vert",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4915388608525895,
+          45.85752883544067
+        ]
+      },
+      "properties": {
+        "id": "P022",
+        "nom": "Panorama du calvaire de Portes",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine naturel",
+        "commune": "Bénonces",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.486755217684927,
+          45.81896940829281
+        ]
+      },
+      "properties": {
+        "id": "P023",
+        "nom": "Cascade de Luizet",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine naturel",
+        "commune": "Bénonces",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.195718,
+          45.9053
+        ]
+      },
+      "properties": {
+        "id": "P024",
+        "nom": "Ancien petit séminaire",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Meximieux",
+        "adresse": "3 rue du Ban Thévenin",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.192885,
+          45.903837
+        ]
+      },
+      "properties": {
+        "id": "P025",
+        "nom": "Beffroi - Ancien Hôtel de ville",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Meximieux",
+        "adresse": "1 place Lieutenand Giraud",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464190682025873,
+          45.78711688724738
+        ]
+      },
+      "properties": {
+        "id": "P026",
+        "nom": "Site archéologique \"Les Plantées\"",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Briord",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465206,
+          45.787389
+        ]
+      },
+      "properties": {
+        "id": "P027",
+        "nom": "Aqueduc Souterrain de Briord",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine culturel",
+        "commune": "Briord",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.564871,
+          45.778956
+        ]
+      },
+      "properties": {
+        "id": "P028",
+        "nom": "L'oeil de la tourbière - ENS de l'Ain",
+        "accroche": "",
+        "description": "",
+        "type": "Patrimoine naturel",
+        "commune": "Marchamp",
+        "adresse": "",
+        "artiste": "",
+        "annee": "",
+        "photo": ""
+      }
+    }
+  ]
+}

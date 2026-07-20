@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fresques de la Plaine de l'Ain - Carte interactive</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <!-- Leaflet.markercluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+  <!-- style perso -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Barre du haut : titre + filtres -->
+  <div id="interface">
+
+    <header id="entete">
+      <h1> Fresques de la Plaine de l'Ain</h1>
+      <p>Découvrez les <strong><span id="compteur">0</span> fresques</strong>
+         et <strong><span id="compteur-lieux">0</span> lieux patrimoniaux</strong></p>
+    </header>
+
+    <!-- Recherche libre : nom, commune ou artiste -->
+    <div id="recherche-bloc">
+      <input type="search" id="filtre-recherche" placeholder=" Rechercher une fresque, une commune, un artiste...">
+    </div>
+
+    <!-- Filtres -->
+    <div id="filtres">
+      <select id="filtre-commune">
+        <option value="">Toutes les communes</option>
+      </select>
+
+      <select id="filtre-type">
+        <option value="">Tous les types de fresques</option>
+        <option value="Musée urbain d'Ambérieu-en-Bugey">Musée urbain d'Ambérieu</option>
+        <option value="Festival Khroma">Fresques du Khrôma Festival de Tenay</option>
+        <option value="Fresque participative CCPA">Fresques participatives CCPA</option>
+        <option value="Fresque historique">Fresques historiques</option>
+        <option value="Fresque hors projet CCPA">Autres fresques du territoire</option>
+      </select>
+
+      <select id="filtre-artiste">
+        <option value="">Tous les artistes</option>
+      </select>
+
+      <label id="label-toggle-lieux">
+        <input type="checkbox" id="toggle-lieux" checked>
+        Afficher les lieux patrimoniaux
+      </label>
+
+      <button id="btn-reset">✕ Réinitialiser</button>
+      <button id="btn-geo"> Me localiser</button>
+    </div>
+
+  </div>
+
+  <!-- La carte -->
+  <div id="map">
+    <!-- message affiché pendant le chargement des données -->
+    <div id="chargement">Chargement de la carte...</div>
+  </div>
+
+  <!-- Légende (repliable via <details>/<summary>), fermée par défaut -->
+  <details id="legende">
+    <summary>Légende</summary>
+    <div class="legende-grille">
+      <p class="legende-titre">Fresques</p>
+      <div class="legende-item"><span class="point rond" style="background:#27ae60"></span>Participatives CCPA</div>
+      <div class="legende-item"><span class="point rond" style="background:#8e44ad"></span>Musée urbain d'Ambérieu</div>
+      <div class="legende-item"><span class="point rond" style="background:#e67e22"></span>Fresques du Khrôma Festival</div>
+      <div class="legende-item"><span class="point rond" style="background:#2980b9"></span>Autres fresques</div>
+      <div class="legende-item"><span class="point rond" style="background:#c0392b"></span>Fresques historiques</div>
+
+      <p class="legende-titre">Lieux patrimoniaux</p>
+      <div class="legende-item"><span class="icone-lieu icone-lieu-mini" style="background:#34495e">🏛️</span>Patrimoine culturel</div>
+      <div class="legende-item"><span class="icone-lieu icone-lieu-mini" style="background:#34495e">ℹ️</span>Info touristique</div>
+      <div class="legende-item"><span class="icone-lieu icone-lieu-mini" style="background:#34495e">🌳</span>Patrimoine naturel</div>
+    </div>
+  </details>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1809 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.193772553245508,
+          45.90515817496813
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative de Meximieux",
+        "accroche": "Fresque participative sur la façade de l'Espace Vaugelas, réalisée avec plus de 300 habitants.",
+        "description": "La fresque met en valeur l'Espace Vaugelas et sa destination culturelle. Elle a été réalisée avec l'aide de plus de 300 habitants.",
+        "type": "Fresque participative CCPA",
+        "commune": "Meximieux",
+        "adresse": "Salle Vaugelas 3 avenue Dr Boyer",
+        "artiste": "Stéphane Paret",
+        "annee": "2025",
+        "photo": "photos/F001.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.15716,
+          45.889522
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative de Bourg-Saint-Christophe",
+        "accroche": "Fresque participative sur l'école-bibliothèque, mêlant symboles du village et vie locale.",
+        "description": "La fresque participative réalisée sur l’école‑bibliothèque de Bourg‑Saint‑Christophe mêle livre ouvert, écoliers rappelant la fonction du lieu et symboles du village comme les puits, les fours et la huppe fasciée, qui mettent en valeur l’identité locale. Elle a été inaugurée en présence du président de la CCPA, Monsieur Jean-Louis Guyader.",
+        "type": "Fresque participative CCPA",
+        "commune": "Bourg-Saint-Christophe",
+        "adresse": "Mur aveugle, Pl. de la Mairie",
+        "artiste": "Passe-Mural",
+        "annee": "2024",
+        "photo": "photos/F002.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.221782480229762,
+          45.86746062193996
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Charnoz-sur-Ain",
+        "accroche": "Hommage à la plus grande roseraie privée de France, aujourd'hui disparue.",
+        "description": "Cette fresque redonne vie à la roseraie du parc du château de la famille Messimy, qui, en 1910 était la plus grande roseraie de France. Aujourd'hui disparue ses roses restent un emblème historique pour la commune.",
+        "type": "Fresque participative CCPA",
+        "commune": "Charnoz-sur-Ain",
+        "adresse": "40 Rue de Monetroi",
+        "artiste": "Passe-Mural",
+        "annee": "2024",
+        "photo": "photos/F003.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.218726,
+          45.843369
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Saint-Jean-de-Niost",
+        "accroche": "Fresques racontant l'histoire et les paysages de Saint-Jean-de-Niost.",
+        "description": "La fresque, située à un lieu très fréquenté et connu des habitants vient égayer cet l'espace en racontant l'histoire de la commune. On peut y voir différents monuments, animaux, végétaux et les hameaux de Saint‑Jean‑de‑Niost.",
+        "type": "Fresque participative CCPA",
+        "commune": "Saint-Jean-de-Niost",
+        "adresse": "122 Chem. de sous Buyat (proximité de la  salle polyvalente et de école)",
+        "artiste": "Y-not",
+        "annee": "2025",
+        "photo": "photos/F004.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200404,
+          45.820501
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative de Saint-Maurice-de-Gourdans",
+        "accroche": "Fresque retraçant la métamorphose d'une usine de filage en zone de loisirs.",
+        "description": "La fresque évoque la transformation du site, passé d’une usine de filage de métaux précieux à une zone de loisirs et de sport. Le thème « Du labeur au loisir, le clos à travers l’histoire de la métamorphose d’une tréfilerie de métaux précieux en lieu récréatif et sportif » retrace cette évolution et met en scène la transformation du lieu à travers le temps.",
+        "type": "Fresque participative CCPA",
+        "commune": "Saint-Maurice-de-Gourdans",
+        "adresse": "façade de l'ancien gymnase\n8 Chem. du Petit Chanay",
+        "artiste": "Passe-Mural",
+        "annee": "2023",
+        "photo": "photos/F005.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.208122,
+          45.776009
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative de Loyettes",
+        "accroche": "Hommage à la construction de bateaux sur le Rhône et à l'aérodrome disparu de Loyettes.",
+        "description": "La fresque met en scène deux pans de l’histoire locale : la fabrication de bateaux pour la navigation sur le Rhône et l’aérodrome de Loyettes, disparu pendant la Seconde Guerre mondiale. Elle rend hommage aux récits liés au transport maritime et aérien qui ont marqué la commune.",
+        "type": "Fresque participative CCPA",
+        "commune": "Loyettes",
+        "adresse": "10 Pl. Maurice Reverdy ",
+        "artiste": "Stéphane Paret",
+        "annee": "2024",
+        "photo": "photos/F006.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.252080097523631,
+          45.8469044169597
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative de Blyes",
+        "accroche": "Fresque participative dans un abri-bus, célébrant la vie intergénérationnelle de Blyes.",
+        "description": "La fresque, située dans un abri-bus, montre le nom de la commune entouré de scènes de vie et d'activités pratiquées par différentes générations, dans une ambiance dynamique et festive mettant en avant la transmission intergénérationnelle.",
+        "type": "Fresque participative CCPA",
+        "commune": "Blyes",
+        "adresse": "Face intérieur d’un grand abris bus \n99 Chem. de Ruvaison",
+        "artiste": "Stéphane Paret",
+        "annee": "2024",
+        "photo": "photos/F007.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27669,
+          45.890704
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Saint-Julie",
+        "accroche": "Fresque à l'entrée de Sainte-Julie, associant musique, chèvres et paysage local.",
+        "description": "La fresque associe musique, chèvres et blocs colorés comme une extension du paysage, visible dès l'entrée de Sainte-Julie.",
+        "type": "Fresque participative CCPA",
+        "commune": "Sainte-Julie",
+        "adresse": "D40,  Mur du local du comité d'animation, Entrée ouest du village coté Chazey / Ain",
+        "artiste": "Passe-Mural",
+        "annee": "2025",
+        "photo": "photos/F008.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3529170669412505,
+          45.92783157113591
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Vaux-en-Bugey",
+        "accroche": "Fresques sur la bibliothèque de Vaux-en-Bugey, mêlant livres et patrimoine médiéval.",
+        "description": "À travers la représentation de livres, la fresque fait écho à la bibliothèque tout en mettant en valeur le patrimoine de Vaux-en-Bugey. Elle illustre notamment les symboles médiévaux, les maisons et l’église du village, ainsi que les montagnes qui structurent son paysage et participent à l’identité du Bugey.",
+        "type": "Fresque participative CCPA",
+        "commune": "Vaux-en-Bugey",
+        "adresse": "Bibliothèque, 66 Rte de la Gare",
+        "artiste": "Stéphane Paret",
+        "annee": "2025",
+        "photo": "photos/F009.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.347545338676417,
+          45.90097739802111
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Lagnieu",
+        "accroche": "Fresque participative sur la piscine municipale de Lagnieu, entre plongée et paysage de montagne.",
+        "description": "Les motifs géométriques en mandala dynamisent la fresque et entourent une plongeuse qui saute d'un tremplin, faisant écho à la piscine municipale de Lagnieu.",
+        "type": "Fresque participative CCPA",
+        "commune": "Lagnieu",
+        "adresse": "36 Route du Port",
+        "artiste": "Passe-Mural",
+        "annee": "2023",
+        "photo": "photos/F010.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336666,
+          45.955097
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Ambérieu-en-Bugey",
+        "accroche": "Phénix symbole du renouveau du quartier Gare d'Ambérieu-en-Bugey.",
+        "description": "Le phoenix symbolise le renouveau du quartier Gare : une œuvre ascendante qui exprime l’énergie collective, la transformation du lieu et l’élan d’avenir porté par les habitants.",
+        "type": "Fresque participative CCPA",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "L’immeuble Phoenix 60 Av. du Général Sarrail",
+        "artiste": "Passe-Mural",
+        "annee": "2025",
+        "photo": "photos/F011.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.396739,
+          45.920958
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative de Torcieu",
+        "accroche": "Fresque rassemblant les symboles du Bugey et du village de Torcieu.",
+        "description": "La fresque rassemble de nombreux symboles propres au Bugey et au village de Torcieu : espèces animales, plantes, traditions culinaires, figures locales, lieux emblématiques et activités du territoire, certains ayant été dessinés par les habitants eux-mêmes. Tous ces éléments composent une grande scène qui reflète la diversité du Bugey, guidée par deux écoliers portés par un Milan royal représentant l’avenir.",
+        "type": "Fresque participative CCPA",
+        "commune": "Torcieu",
+        "adresse": "Mairie/école 19 Grande rue ",
+        "artiste": "?AH! de la galerie \"Em'Art\"",
+        "annee": "2025",
+        "photo": "photos/F012.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.441877,
+          45.948885
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque participative Saint-Rambert-en-Bugey",
+        "accroche": "Fresque inspirée de l'Albarine, rivière emblématique du territoire.",
+        "description": "Inspirée par l’Albarine, cette fresque aux couleurs vives met en scène un personnage porté par un poisson, dans un environnement aquatique.",
+        "type": "Fresque participative CCPA",
+        "commune": "Saint-Rambert-en-Bugey",
+        "adresse": "108 Rue Dr Temporal CSCA",
+        "artiste": "Passe-Mural",
+        "annee": "2023",
+        "photo": "photos/F013.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509612253145992,
+          45.91727680142763
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le plongeur Tenay ",
+        "accroche": "La fresque de l'école",
+        "description": "Cette fresque participative réalisée à l'initiative de la CCPA est partiellement visible depuis l'extérieur. Elle apporte de la couleur à la cour de l’école grâce à une baleine et des vagues peintes sous le préau. Sur le côté du bâtiment, un plongeur, visible depuis l’extérieur, plonge dans ces vagues comme s’il sautait depuis la fenêtre.",
+        "type": "Autres fresques du territoire",
+        "commune": "Tenay",
+        "adresse": "école primaire de Tenay, 37 Rue Centrale",
+        "artiste": "Passe-Mural",
+        "annee": "2023",
+        "photo": "photos/F014.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.275803443870052,
+          45.812532808697306
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque musée du patrimoine",
+        "accroche": "Fresque célébrant la culture, le patrimoine et les traditions agricoles de Saint-Vulbas.",
+        "description": "Réalisée sur la façade du Musée du Patrimoine, la fresque met en avant les mots “Culture - Patrimoine - Traditions”, qui constituent le cœur de la mission du musée. Le décor mêle végétaux  et références au monde agricole en écho direct aux collections du musée et à l’histoire rurale du village.",
+        "type": "Autres fresques du territoire",
+        "commune": "Saint-Vulbas",
+        "adresse": " 73 rue Philibert le Beau",
+        "artiste": "Stéphane Paret",
+        "annee": "2025",
+        "photo": "photos/F015.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.283256588168281,
+          45.885678884495974
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque château d'eau",
+        "accroche": "Château d'eau transformé en cascade peinte, repère visuel dans le paysage de Sainte-Julie.",
+        "description": "La fresque du château d’eau de Sainte‑Julie représente une cascade peinte qui semble dévaler la tour, créant une mise en scène visuelle en lien avec la fonction du bâtiment. Réalisée par l’Atelier Adeline, elle transforme le château d’eau en repère dans le paysage.",
+        "type": "Autres fresques du territoire",
+        "commune": "Sainte-Julie",
+        "adresse": "Château d'Eau, Chem. De Montlieu",
+        "artiste": "Boris Veyret, Ateliers Adeline",
+        "annee": "2017",
+        "photo": "photos/F016.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4349984906319495,
+          45.94377353759811
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque musée des traditions Bugistes",
+        "accroche": "Hommage à la transmission des savoirs bugistes.",
+        "description": "La fresque représente un homme âgé et une personne plus jeune se faisant face, symbolisant la transmission orale des savoirs et des traditions bugistes. Installée sur le Musée des Traditions Bugistes, elle met en scène le lien entre générations et la transmission sur ce lieu dédié à la mémoire du territoire.",
+        "type": "Autres fresques du territoire",
+        "commune": "Saint-Rambert-en-Bugey",
+        "adresse": "Musée des traditions Bugistes, 7 Av. de l'Europe.",
+        "artiste": "Stéphane Paret",
+        "annee": "2024",
+        "photo": "photos/F017.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433497040442589,
+          45.846435334446085
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La fresque patrimoine",
+        "accroche": "Trompe-l'œil retraçant l'essor des carrières de Villebois et la vie des carriers.",
+        "description": "La fresque, peinte à la manière d’un trompe‑l’œil, retrace l’essor des carrières de Villebois. Elle représente les scènes de travail de la pierre, les outils, les gestes et les ouvriers, ainsi que plusieurs figures locales emblématiques.",
+        "type": "Autres fresques du territoire",
+        "commune": "Villebois",
+        "adresse": "Route de la gare, 40 All. des Tilleuls",
+        "artiste": "Cie Vincent Ducaroy",
+        "annee": "2025",
+        "photo": "photos/F018.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.357852,
+          45.928228
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La grande fresque",
+        "accroche": "Paysage de Vaux-en-Bugey peint sur une façade du village.",
+        "description": "Réalisée sur une façade de Vaux-en-Bugey, la fresque représente un paysage caractéristique du territoire, mêlant rivière, végétation et reliefs du Bugey.",
+        "type": "Autres fresques du territoire",
+        "commune": "Vaux-en-Bugey",
+        "adresse": "Route de Vaux-Févroux",
+        "artiste": "Monsieur Panis",
+        "annee": "1995",
+        "photo": "photos/F019.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.349191624483119,
+          45.927926766244234
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque Transformateur Electrique",
+        "accroche": "Fresque Le Corbeau et le Renard de Jean de la Fontaine.",
+        "description": "La fresque illustre la fable  « Le Corbeau et le Renard » de Jean de La Fontaine.",
+        "type": "Autres fresques du territoire",
+        "commune": "Vaux-en-Bugey",
+        "adresse": "Rue des Cattes",
+        "artiste": "Art up",
+        "annee": "",
+        "photo": "photos/F020.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.210405,
+          45.777269
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque jeunesse ",
+        "accroche": "Fresque nature sur transformateur électrique, réalisée avec des jeunes de Loyettes.",
+        "description": "Peinte sur un transformateur électrique de Loyettes, cette fresque réalisée par le collectif La Coulure avec des jeunes de la commune célèbre la nature et le paysage local.",
+        "type": "Autres fresques du territoire",
+        "commune": "Loyettes",
+        "adresse": "Rue du Bugey",
+        "artiste": "La Coulure",
+        "annee": "2020",
+        "photo": "photos/F021.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.188616097539755,
+          45.94009834913419
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Fresque Rignieux-le-Franc",
+        "accroche": "Fresque en couleurs pastel au cœur de Rignieux-le-Franc.",
+        "description": "Fresque en couleurs pastel située au cœur de la commune, elle représente un paysage à l'image du lieu où elle se trouve.",
+        "type": "Autres fresques du territoire",
+        "commune": "Rignieux-le-franc ",
+        "adresse": "Place de la Fontaine",
+        "artiste": "Christian Hagnere",
+        "annee": "2002",
+        "photo": "photos/F022.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.505316327891334,
+          45.92070233298082
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Marche avec moi",
+        "accroche": "Montagnes, cascade et oiseau : le patrimoine naturel de Tenay en couleurs.",
+        "description": "La fresque met en valeur le patrimoine naturel local de Tenay à travers une composition colorée représentant les montagnes, une cascade et un oiseau stylisé. Réalisée par trois artistes, elle utilise des formes simples et des aplats de couleurs pour évoquer le paysage caractéristique du village.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": " 91 Rue de la Gare",
+        "artiste": "Chloé, Caroline, Coline",
+        "annee": "2024",
+        "photo": "photos/F023.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508430391869185,
+          45.91946095746227
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La Schappe et l'Albarine",
+        "accroche": "Fresque collective inspirée de la schappe et de l'Albarine, deux emblèmes du territoire.",
+        "description": "La fresque s’inspire de la schappe et de l’Albarine : on y voit des personnages accompagnés d’objets liés au tissage ainsi que de végétaux et de poissons, faisant référence à ces deux éléments majeurs du territoire. L’œuvre mélange les styles propres aux artistes pour créer une composition collective.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "18 rue de la Gare",
+        "artiste": "Méthyl'Mnê, Manola, M. Dangelo, Williann, Origin, Mur 69",
+        "annee": "2021",
+        "photo": "photos/F024.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508849273585075,
+          45.91920369932069
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le hibou",
+        "accroche": "Hibou monumental.",
+        "description": "La fresque représente un hibou sur un fond bleu, réalisée à partir d’un assemblage de formes et de couleurs qui dynamise et illumine la place.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "3 Place du Pont",
+        "artiste": "Kat, Action",
+        "annee": "2024",
+        "photo": "photos/F025.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509224,
+          45.918931
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Grand visage",
+        "accroche": "Grand portrait de femme stylisé, signé Marilou Manyoly.",
+        "description": "L'artiste Manyoly est spécialisée dans les portraits de femmes ; ici, il s’agit d’un grand portrait stylisé.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "6 Place du Pont",
+        "artiste": "Marilou Manyoly",
+        "annee": "2020",
+        "photo": "photos/F026.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509415,
+          45.918718
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "The forgotten secrets guardians",
+        "accroche": "Lynx, femme et montagne : une fresque hyperréaliste en noir et blanc.",
+        "description": "Cette fresque hyperréaliste en deux parties représente un lynx, une femme et un paysage de montagne rappelant le territoire. Réalisée en noir et blanc, elle utilise les contrastes pour créer une atmosphère intemporelle.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Place de la mairie",
+        "artiste": "Aéro (Créaéro, Décograff)",
+        "annee": "2021",
+        "photo": "photos/F027.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509057964717977,
+          45.91859839646975
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "The song of silence",
+        "accroche": "Buses hyperréalistes en dialogue avec une œuvre réalisée trois ans plus tôt.",
+        "description": "Cette fresque hyperréaliste représente des buses, en référence à celles présentes sur le territoire. Placée en vis-à-vis de The Forgotten Secrets Guardians, réalisée trois ans plus tôt, elle complète l’ensemble et dialogue avec l’autre œuvre par son thème naturel et sa composition.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Place de la mairie",
+        "artiste": "Aéro (Créaéro, Décograff)",
+        "annee": "2024",
+        "photo": "photos/F028.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508918,
+          45.918425
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Square des enfants",
+        "accroche": "Expression libre issue d'une jam session graffiti avec habitants et visiteurs.",
+        "description": "Expression libre lors d'une Jam session graffiti qui s'est déroulée les 10 et 11 septembre 2022.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Place de la mairie",
+        "artiste": "les habitants, visiteurs",
+        "annee": "2022",
+        "photo": "photos/F029.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509099300521462,
+          45.918044087598325
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Façade fleurie et l'enfant",
+        "accroche": "Coquelicots et enfant sur la façade de la mairie de Tenay.",
+        "description": "Stéphane Paret réalise sur la façade de la mairie une fresque représentant des  coquelicots aux côtés d’une enfant tenant une fleur dans la main et l’observant.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Mairie de Tenay, Place de la mairie",
+        "artiste": "Stéphane Paret",
+        "annee": "2022",
+        "photo": "photos/F030.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509475,
+          45.91779
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Passerelle en anamorphose (trompe-l'œil)",
+        "accroche": "Trompe-l'œil en anamorphose : une passerelle transformée en pont de bois brisé.",
+        "description": " La fresque est un trompe‑l’œil en anamorphose :  un point de vue unique permet d’obtenir l’illusion optimale. Elle joue avec le rôle de la passerelle en la transformant en pont de bois brisé, avec des effets 3D sur les côtés pour renforcer l’illusion. ",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Passage André Babolat",
+        "artiste": "Sweo, Nikita",
+        "annee": "2024",
+        "photo": "photos/F031.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509594,
+          45.917711
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La truite (anamorphose)",
+        "accroche": "Anamorphose : depuis la passerelle sur l'Albarine, une truite semble surgir du mur.",
+        "description": "La fresque est un trompe‑l’œil en anamorphose : un point de vue unique permet d’obtenir l’illusion optimale. Depuis la passerelle qui surplombe l’Albarine, on a l’impression que la truite sort du mur !",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Passage André Babolat",
+        "artiste": "Sweo, Nikita",
+        "annee": "2024",
+        "photo": "photos/F032.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509866,
+          45.917586
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Datura",
+        "accroche": "Wild style 3D mêlant nature et matériaux non recyclables.",
+        "description": "La fresque aborde la thématique de la nature en mêlant un visage à des matériaux non recyclables. Le graffeur utilise ces matériauxpour créer son nom « EZRA » en wild style 3D. Avec un lettrage dynamique qui semble en mouvement et réagir à la lumière.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Passage André Babolat",
+        "artiste": "Ezra",
+        "annee": "2024",
+        "photo": "photos/F033.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5097506346335425,
+          45.916427586953034
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le renard",
+        "accroche": "Renard en grand format sur un fond fissuré en trompe-l'œil.",
+        "description": "L’artiste représente un renard sur un fond en trompe‑l’œil évoquant un mur fissuré et éclaté.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "80 Rue Centrale",
+        "artiste": "Kalouf",
+        "annee": "2024",
+        "photo": "photos/F034.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509964424609946,
+          45.91440492279181
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Les enfants pêcheurs",
+        "accroche": "Deux enfants pêchant depuis une passerelle, en clin d'œil aux loisirs de Tenay.",
+        "description": "La fresque représente deux enfants pêchant depuis une passerelle, en clin d’œil aux activités des environs.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Rue de la Cité Cleyzeau",
+        "artiste": "Nark",
+        "annee": "2022",
+        "photo": "photos/F035.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509762,
+          45.914184
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Street art Comics",
+        "accroche": "Comics Marvel au skatepark des Eaux Noires de Tenay.",
+        "description": "Un ensemble de fresques sur le thème des comics américains, plus précisément de l’univers Marvel, est visible au skatepark / city-stade des Eaux Noires.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "skate park / city stade, 3 de la rue de la cité Cleyzeau ",
+        "artiste": "Esprit, Kaos, Ledis, Nark, Metra, Skarp, Krim Graff",
+        "annee": "2020",
+        "photo": "photos/F036.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510219,
+          45.912315
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Muret coloré",
+        "accroche": "Muret végétal : coquelicots, grenouille, hérisson et cycliste.",
+        "description": " Ce petit muret prolonge le paysage avec une fresque végétale : coquelicots, escargots, grenouilles, herbes, hérissons, coccinelles… jusqu’aux roues d’un cycliste qui traversent la scène",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Fresque située à la sortie sud de Tenay en direction de Belley",
+        "artiste": "Nark",
+        "annee": "2022",
+        "photo": "photos/F037.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510344,
+          45.912207
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Activités aux alentours",
+        "accroche": "Fresque sur transformateur valorisant les activités de plein air de la commune.",
+        "description": "Cette fresque est réalisée sur un transformateur électrique et met en avant des photos d’activités pratiquées dans la commune, comme le vélo, la randonnée.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": " rue de la Guinguette ",
+        "artiste": "Nark",
+        "annee": "2024",
+        "photo": "photos/F038.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5100381635736575,
+          45.918247357183375
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L'alchimiste",
+        "accroche": "Locomotive, enfant et lanternes inspirés du conte L'Alchimiste de Paulo Coelho.",
+        "description": "Une locomotive, un enfant et des lanternes qui s’envolent dans le ciel composent cette fresque. Inspirée d’un conte de Paolo Coelho, elle met en scène le voyage et de rêve.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "19 rue centrale",
+        "artiste": "LICEA (Alice Imbert)",
+        "annee": "2022",
+        "photo": "photos/F039.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51027147086497,
+          45.91854826220968
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L'enfant phare",
+        "accroche": "Musiciens et chanteuse accompagnant une petite fille au piano.",
+        "description": "Cette scène colorée montre des musiciens et une chanteuse accompagnant une petite fille au piano.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "8 rue centrale",
+        "artiste": "Krim Graff",
+        "annee": "2022",
+        "photo": "photos/F040.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509896050887383,
+          45.91880462957413
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le héron",
+        "accroche": "Héron tourné vers l'Albarine, sur fond de motifs géométriques.",
+        "description": "La fresque montre un héron, espèce fréquente dans la région, tenant un poisson dans son bec et tourné vers l’Albarine, avec des fleurs d’eau au premier plan et un fond de motifs géométriques.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "3 rue Centrale",
+        "artiste": "Grazouilla (Laurent Claveau)",
+        "annee": "2021",
+        "photo": "photos/F041.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510079713114773,
+          45.91894178744158
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le passage",
+        "accroche": "Trompe-l'œil d'une ruelle ensoleillée derrière une arche en pierre.",
+        "description": "Cette fresque en trompe‑l’œil représente une ouverture sur une ruelle ensoleillée, bordée de végétation, visible derrière une arche en pierre.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": " 2 rue centrale",
+        "artiste": "Claire Laurent",
+        "annee": "2022",
+        "photo": "photos/F042.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510079713114773,
+          45.91894178744158
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le martin-pêcheur",
+        "accroche": "Martin-pêcheur posé sur une branche au bord de l'Albarine.",
+        "description": "Petite fresque située au bord de la rivière Albarine, représentant un martin‑pêcheur posé sur une branche, un poisson dans le bec.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "Rue Labbée",
+        "artiste": "Nark",
+        "annee": "2020",
+        "photo": "photos/F043.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509943,
+          45.919253
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La sortie d'usine",
+        "accroche": "Ouvriers sortant de la schappe, entourés de tissus colorés.",
+        "description": "La fresque représente, au centre, une scène en noir et blanc montrant des ouvriers sortant de la schappe, entourée de tissus colorés en référence à l’activité de l'usine. ",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "10 rue l’Abbé",
+        "artiste": "Artep (Alexis Rapet)",
+        "annee": "2022",
+        "photo": "photos/F044.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509961382979504,
+          45.919610430956716
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La fileuse",
+        "accroche": "Portrait d'une fileuse en sépia, hommage à l'industrie de la schappe.",
+        "description": " L’artiste représente ici une fileuse, en référence à la schappe, valorisant le patrimoine industriel du territoire. L’effet sépia rappelle le caractère historique de l’image et de cette activité.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "18 rue l’Abbé",
+        "artiste": "Julien Lachaize",
+        "annee": "2022",
+        "photo": "photos/F045.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509371175463267,
+          45.9193270912089
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Petit visage",
+        "accroche": "Petit portrait de femme stylisé, signé Marilou Manyoly.",
+        "description": "Manyoly est spécialisée dans les portraits de femmes ; ici, il s’agit d’un petit portrait stylisé.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "petit escalier montant vers l’église depuis la route d’hauteville",
+        "artiste": "Marilou Manyoly",
+        "annee": "2020",
+        "photo": "photos/F046.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5095782546363745,
+          45.91910599920623
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Ancienne poste",
+        "accroche": "Cartes postales anciennes reproduites sur l'ancienne poste de Tenay.",
+        "description": "Reproduction de cartes postales anciennes sur la façade de l’ancien bâtiment des PTT de Tenay.",
+        "type": "Festival Khroma",
+        "commune": "Tenay",
+        "adresse": "3 rue Neuve",
+        "artiste": "Artep (Alexis Rapet)",
+        "annee": "2021",
+        "photo": "photos/F047.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332707734761823,
+          45.95604948889717
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L’Albarine",
+        "accroche": "Hommage à l'Albarine, rivière aux eaux claires traversant gorges et vallées.",
+        "description": " La fresque rend hommage à l’Albarine, une rivière aux eaux claires qui traverse gorges, cascades et vallées avant de rejoindre l’Ain. ",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Rue de l'Albarine.",
+        "artiste": "Y-not",
+        "annee": "2018",
+        "photo": "photos/F048.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.335935,
+          45.955308
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Animobilité",
+        "accroche": "Animaux en transports inspirés de Zootopie, menant au pôle multimodal d'Ambérieu.",
+        "description": "Inspirée du dessin animé Zootopie, cette fresque imagine des animaux utilisant différents types de transports. On y voit toute une scène qui accompagne le visiteur jusqu’au pôle de transports d’Ambérieu-en-Bugey, où se rejoignent trains, bus, taxis, covoiturage et stationnements vélos...",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Avenue du Général Sarrail",
+        "artiste": "Y-Not",
+        "annee": "2022",
+        "photo": "photos/F049.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.340318579658338,
+          45.95769236039621
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le Petit Prince et le Renard",
+        "accroche": "Le Petit Prince et le Renard, hommage à Antoine de Saint-Exupéry.",
+        "description": "Cette fresque rend hommage à Antoine de Saint‑Exupéry en mettant en scène le Petit Prince et le Renard. Elle se situe à quelques kilomètres de Saint-Maurice-de-Remens, où ce trouve un château où l’auteur a vécu.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Rue Saint-Exupéry",
+        "artiste": "Y-not",
+        "annee": "2018",
+        "photo": "photos/F050.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.341872,
+          45.957492
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Square Normandie Niémen",
+        "accroche": "Fresque nature avec yak et avion, en référence à l'escadrille Normandie-Niémen.",
+        "description": "La fresque met en valeur la nature dans le cadre du réaménagement du square par la ville, orienté vers la préservation de l'environnement. On y retrouve un yak et un avion, en référence à l'escadrille Normandie-Niémen.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "33 Rue Jules Ferry",
+        "artiste": "Y-not",
+        "annee": "2018",
+        "photo": "photos/F051.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343812681486114,
+          45.95672649722672
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": " L’île aux enfants",
+        "accroche": "Casimir, Pollux et Zébulon rendent hommage aux émissions de l'enfance.",
+        "description": "Cette fresque, placée près d'une école, rend hommage aux émissions L'Île aux enfants et Le Manège enchanté. On y retrouve Casimir, Pollux et Zébulon, des personnages qui ont accompagné plusieurs générations d'enfants.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "24 Rue Jules Ferry",
+        "artiste": "Nark",
+        "annee": "2022",
+        "photo": "photos/F052.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343007,
+          45.954113
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Micro-forêt",
+        "accroche": "Décor de forêt annonçant le futur parvis-forêt de la gare d'Ambérieu.",
+        "description": "Cette fresque montre un décor de forêt, en lien avec le futur parvis de la gare qui sera inspiré d'une micro forêt. ",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "1 Av. du Général Sarrail",
+        "artiste": "Nark",
+        "annee": "2022",
+        "photo": "photos/F053.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34243090803726,
+          45.95417254763803
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Histoire ferroviaire",
+        "accroche": "Locomotive PLM traversant un mur de pierre, rappelant l'arrivée du rail en 1856.",
+        "description": "Cette fresque représente une locomotive PLM qui semble traverser un mur de pierre, rappelant l’arrivée du rail à Ambérieu‑en‑Bugey en 1856.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Pl. de la Gare",
+        "artiste": "Medlakolor",
+        "annee": "2021",
+        "photo": "photos/F054.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34243090803726,
+          45.95417254763803
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le 7 juin 1944",
+        "accroche": "Hommage aux résistants cheminots d'Ambérieu du 7 juin 1944.",
+        "description": "Cette fresque rappelle un événement marquant de l'histoire locale. Le 7 juin 1944, des cheminots résistants et des maquisards ont mené une opération à la gare d'Ambérieu, carrefour stratégique allemand, pour mettre hors service du matériel ferroviaire et éviter son bombardement par les Alliés.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Pl. de la Gare",
+        "artiste": "Medlakolor",
+        "annee": "2021",
+        "photo": "photos/F055.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34243090803726,
+          45.95417254763803
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Rocket Train",
+        "accroche": "Un enfant aux commandes d'une locomotive, symbole des rêves de la ville.",
+        "description": "La ville d'Ambérieu-en-Bugey a choisi de représenter un enfant aux commandes d'une locomotive, en référence aux rêves d'enfant de conduire un train.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Pl. de la Gare",
+        "artiste": "Medlakolor",
+        "annee": "2021",
+        "photo": "photos/F056.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34243090803726,
+          45.95417254763803
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L’évolution du train",
+        "accroche": "L'évolution du train des origines jusqu'au futur imaginaire.",
+        "description": "Cette fresque représente l'évolution du train à travers les âges, jusqu'à l'imagination d'un train du futur.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Pl. de la Gare",
+        "artiste": "Medlakolor",
+        "annee": "2021",
+        "photo": "photos/F057.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.340300253771708,
+          45.954789227667234
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L’innovation",
+        "accroche": "Pendule de Newton en ampoules : symbole de l'intelligence collective.",
+        "description": "La fresque vise à illustrer la force de l'intelligence collective pour permettre à une idée de briller, ainsi on peut voir un pendule de Newton remplacé par des ampoules.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Av. du Général Sarrail",
+        "artiste": "Y-Not",
+        "annee": "2019",
+        "photo": "photos/F058.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.334363195759299,
+          45.959640315942885
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La Libération d’Ambérieu",
+        "accroche": "La libération d'Ambérieu le 3 septembre 1944, d'après des images d'époque.",
+        "description": "À partir d’images d’époque, la fresque met en scène la libération de la ville le 3 septembre 1944, la liesse populaire et les actes héroïques des maquisards, dans une ambiance festive.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Av. de la Libération",
+        "artiste": "Nessé",
+        "annee": "2021",
+        "photo": "photos/F059.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336420812949234,
+          45.963048083619924
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le Cecof",
+        "accroche": "Fresque identifiant le CECOF, établissement de formation par apprentissage.",
+        "description": "La fresque sur ce transformateurermet d'identifier le CECOF, centre de formation par apprentissage.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "52 Av. de la Libération",
+        "artiste": "Y-not",
+        "annee": "2022",
+        "photo": "photos/F060.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33745512366564,
+          45.96465897441739
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le petit prince et sa rose",
+        "accroche": "Le Petit Prince, sa rose et le renard, clin d'œil à l'auteur Saint-Exupéry.",
+        "description": "La fresque représente le petit prince accompagné de la rose et du renard du roman d'Antoine de Saint-Exupéry, clin d'œil à l'auteur qui a vécu à Saint-Maurice-de-Rémens.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Av. de la Libération",
+        "artiste": "Nark",
+        "annee": "2021",
+        "photo": "photos/F062.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.339208,
+          45.964684
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Triangles",
+        "accroche": "Triangles colorés en lien avec la zone d'activité du Triangle d'Ambérieu.",
+        "description": "La fresque représente différents triangles colorés, en liens avec la zone du Triangle d'Activité.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "969 Av. Léon Blum",
+        "artiste": "Y-not",
+        "annee": "2020",
+        "photo": "photos/F062.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3433505690893455,
+          45.96292789111591
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Chacun son sport",
+        "accroche": "Diversité sportive illustrée à deux pas du gymnase et du centre nautique.",
+        "description": "Située près de plusieurs équipements sportifs (club de rugby, gymnase, centre nautique), la fresque illustre la diversité des pratiques sportives à travers plusieurs personnages pratiquant différents sports.\n\n",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "609 Av. Léon Blum",
+        "artiste": " La Coulure",
+        "annee": "2016",
+        "photo": "photos/F063.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.348826348505748,
+          45.960875960027806
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L’espace 1500",
+        "accroche": "Femme la tête dans les étoiles signalant l'entrée de l'Espace 1500.",
+        "description": "La fresque est située à l’entrée du bâtiment et s’inspire de l’Espace 1500. Elle représente une femme la tête dans les étoiles, accompagnée de l’inscription « Espace 1500 », qui permet d’identifier le bâtiment.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "10 Rue Léon Blum,",
+        "artiste": "Osru",
+        "annee": "2018",
+        "photo": "photos/F064.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.349545172275905,
+          45.96110172807387
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Village Ain’Terre’Actif",
+        "accroche": "Fresque réalisée par des enfants lors du concours « Village Ain'Terre'Actif ».",
+        "description": "Cette fresque a été réalisée par des enfants lors du concours de dessins \"Village Ain'Terre'Actif\". Le thème portait sur la ville connectée.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Chem. De l'Aviation",
+        "artiste": "Vincent Ducaroy",
+        "annee": "2010",
+        "photo": "photos/F065.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.357581331728311,
+          45.952910324743534
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Les époux Démia",
+        "accroche": "Hommage aux époux Démia, résistants ayant caché des réfractaires au STO.",
+        "description": "Les époux Démia sont des résistants français qui ont caché et nourri plusieurs réfractaires, ayant refusé de partir en Allemagne dans le cadre du STO (Service du travail obligatoire).",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "44 Rue Marcel et Ida Démia",
+        "artiste": "Y-not",
+        "annee": "2020",
+        "photo": "photos/F066.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358079,
+          45.959085
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Place du Champ de Mars",
+        "accroche": "Trompe-l'œil ferroviaire et aéronautique place du Champ de Mars.",
+        "description": "Cette fresque informe sur l’histoire ferroviaire et aéronautique d’Ambérieu. Réalisée en trompe‑l’œil, elle représente des conducteurs visibles aux fenêtres, un pilote au centre, ainsi qu’une locomotive à vapeur, une autre motrice et deux avions.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Pl. du Champ de Mars",
+        "artiste": "Vincent Ducaroy",
+        "annee": "2006",
+        "photo": "photos/F068.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.356643,
+          45.959944
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Les fresques de la MJC",
+        "accroche": "Fresques de la MJC d'Ambérieu",
+        "description": "",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "MJC Ambérieu Maison pour Tous",
+        "artiste": "",
+        "annee": "",
+        "photo": "photos/F069.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358196780916043,
+          45.96024420949315
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": " Le Cœur de Ville",
+        "accroche": "« Un nouveau souffle pour le cœur de ville » : le programme Action Cœur de Ville en images.",
+        "description": "À travers la représentation d’une petite fille soufflant des bulles formant le message « Un nouveau souffle pour le cœur de ville », l’œuvre fait référence au dispositif Action Cœur de Ville (2018).",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Rue Alexandre Bérard",
+        "artiste": "Y-not",
+        "annee": "2020",
+        "photo": "photos/F071.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3678049901998595,
+          45.95667476255279
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Place de Vareilles",
+        "accroche": "Végétaux et animaux colorés réalisés avec les habitants du quartier.",
+        "description": "Réalisée lors d’ateliers participatifs avec les habitants, cette fresque colorée présente différents végétaux et animaux. Vous y reconnaîtrez même le chat de l’un des habitants !",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "60 Rue de Vareilles",
+        "artiste": "Julie Buibui",
+        "annee": "2022",
+        "photo": "photos/F070.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3546906978029245,
+          45.96732199871443
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Place du Tiret",
+        "accroche": "Faune et flore réalisées par des enfants lors de stages de découverte.",
+        "description": "Réalisée lors de stages de découverte par un groupe d'enfants, cette fresque met en avant des éléments de la faune et de la flore, illustrant un écosystème vital pour l'homme.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Pl. du Tiret",
+        "artiste": "Antonin Goyard",
+        "annee": "2011",
+        "photo": "photos/F071.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3525536700708,
+          45.967198256361975
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le Chili et la Croix-Rouge",
+        "accroche": "Portrait de Henri Dunant, fondateur de la Croix-Rouge internationale.",
+        "description": "Cette fresque représente Henri Dunant, homme d'affaires humaniste suisse, considéré comme le fondateur du mouvement de la Croix-Rouge internationale.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Le Chili et la Croix-Rouge",
+        "artiste": "Nark",
+        "annee": "",
+        "photo": "photos/F072.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35340928790453,
+          45.9696078735903
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "L'étoile",
+        "accroche": "Berger accrochant l'étoile polaire, repère du nouveau programme de logements.",
+        "description": "Cette fresque, réalisée à l’initiative du promoteur Artémis, s’inscrit dans un secteur où un nouveau programme de logements doit être lancé. En référence au nom du projet, l’artiste représente un berger accrochant l’étoile polaire, une image pensée pour égayer et identifier visuellement la zone.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "134-178 Rue Alexandre Bérard",
+        "artiste": "Y-not",
+        "annee": "2021",
+        "photo": "photos/F073.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.348015740030993,
+          45.97181584767728
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Chronos",
+        "accroche": "Sablier et pendule brisée : une méditation sur le temps qui passe.",
+        "description": "La fresque aborde la notion du temps à travers différents éléments symboliques : un sablier, un paysage et une main qui brise une pendule évoquant le passage du temps, en référence à une réflexion philosophique.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Av. du Colonel Chambonnet",
+        "artiste": "Nark",
+        "annee": "2022",
+        "photo": "photos/F074.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3494724113409005,
+          45.97727800222524
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Bellièvre",
+        "accroche": "Santé, sport et enseignement illustrés près de l'hôpital et du lycée.",
+        "description": "La fresque, située à proximité de l’hôpital, du gymnase et du lycée professionnel, illustre les domaines de la santé, du sport et de l’enseignement.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Rue Alexandre Bérard",
+        "artiste": "Y-not",
+        "annee": "2018",
+        "photo": "photos/F075.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343330426856143,
+          45.971875630334644
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Sauvons les abeilles",
+        "accroche": "Abeille sur fleur, plaidoyer pour la préservation des pollinisateurs.",
+        "description": "Cette fresque montre une abeille sur une fleur. Elle vise à sensibiliser au rôle essentiel des abeilles dans la pollinisation, qui permet la production de nombreux fruits et légumes, un enjeu d’autant plus important face à leur diminution.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Av. de la Libération",
+        "artiste": "Nark",
+        "annee": "2022",
+        "photo": "photos/F076.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359759,
+          45.95271
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le renard de la rue Démia",
+        "accroche": "Renard entouré de végétaux aux couleurs vives, signé Julie Buibui.",
+        "description": "Cette fresque, marquée par la touche de l’artiste, représente un renard entouré de végétaux aux couleurs vives.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "rue Démia",
+        "artiste": "Julie Buibui",
+        "annee": "2023",
+        "photo": "photos/F077.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336285732468389,
+          45.95612512861203
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Girod de l'Ain ",
+        "accroche": "Des dinosaures à la pop culture jusqu'au robot : une fresque sur l'évolution.",
+        "description": "La fresque porte sur l'évolution en partant des dinosaures passant par la pop culture actuelle jusqu'au robot.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "8 rue Girod de l’Ain ",
+        "artiste": "Nark",
+        "annee": "2025",
+        "photo": "photos/F078.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3608680240029205,
+          45.95880848350394
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Aimée Vingtrinier",
+        "accroche": "Hommage à Aimée Vingtrinier, figure locale d'Ambérieu-en-Bugey.",
+        "description": "La fresque rend hommage à Aimée Vingtrinier, imprimeur, écrivain et histoirien lyonnais du XIXe siècle.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "Vingtrinier ",
+        "artiste": "Nark",
+        "annee": "2025",
+        "photo": "photos/F079.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.339143,
+          45.959783
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Le jumelage",
+        "accroche": "Hommage au jumelage entre Ambérieu-en-Bugey et Mering (Allemagne).",
+        "description": "La fresque célèbre le jumelage d'Ambérieu-en-Bugey avec la commune de Mering, en Allemagne.",
+        "type": "Musée urbain d'Ambérieu-en-Bugey",
+        "commune": "Ambérieu-en-Bugey",
+        "adresse": "518 Avenue de Mering ",
+        "artiste": "Nark",
+        "annee": "2025",
+        "photo": "photos/F080.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.195498844870587,
+          45.821345533525104
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "Thème religieux",
+        "accroche": "Fresques romanes représentant des scènes bibliques dans une église du territoire.",
+        "description": "Ces fresques relatent diverses scènes bibliques et présentent des chapiteaux historiés, témoins de l'art roman dans l'église de Saint-Maurice-de-Gourdans.",
+        "type": "Fresque historique",
+        "commune": "Saint-Maurice-de-Gourdans",
+        "adresse": "1 Rte de Port Galland",
+        "artiste": "",
+        "annee": "XVe, XIXe et XXe siècles",
+        "photo": "photos/F081.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372730379418884,
+          45.883839318652555
+        ]
+      },
+      "properties": {
+        "id": "",
+        "nom": "La fresque de Saint-Christophe",
+        "accroche": "Fresque du XVIe siècle représentant saint Christophe portant l'Enfant Jésus.",
+        "description": "La fresque représente un personnage gigantesque portant un enfant sur son dos. Datée du début du XVIᵉ siècle et réalisée “a fresco”, elle illustre l’épisode du géant Offérus devenu Saint‑Christophe après sa quête spirituelle. La scène montre le moment où il porte le Christ, identifiable au globe surmonté d’une croix.",
+        "type": "Fresque historique",
+        "commune": "Saint-Sorlin-en-Bugey",
+        "adresse": "La maison dite “de Saint-Christophe” est située Montée de l’Église",
+        "artiste": "Peintre itinérant allemand",
+        "annee": "XVe-XVIe siècles",
+        "photo": "photos/F082.jpg"
+      }
+    }
+  ]
+}
